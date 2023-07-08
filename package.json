@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "generate": "^0.14.0",
+    "generate-unique-id": "^2.0.1",
+    "id": "^0.0.0",
+    "uniq": "^1.0.1"
   }
 }
